@@ -10,5 +10,5 @@
 ## 課程筆記區  
 ## 作業連結區  
 [作業1 : 十個問題](https://github.com/Zing116/LAT/blob/main/W3/week3_HW.ipynb)  
-作業2 : 再提三個問題
+[作業2 : 再提三個問題](https://github.com/Zing116/LAT/blob/main/W5/HW2.ipynb)
 ## 專題連結區
