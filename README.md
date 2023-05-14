@@ -12,4 +12,5 @@
 [作業1 : 十個問題](https://github.com/Zing116/LAT/blob/main/W3/week3_HW.ipynb)  
 [作業2 : 再提三個問題](https://github.com/Zing116/LAT/blob/main/W5/HW2.ipynb)  
 [作業3 ](https://github.com/Zing116/LAT/blob/main/W6/TextMining.ipynb)  
+[作業4 : Line機器人](https://github.com/Zing116/LAT/tree/main/HW4)
 ## 專題連結區
